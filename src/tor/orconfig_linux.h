@@ -139,7 +139,7 @@
 #define HAVE_GETADDRINFO 1
 
 /* Define to 1 if you have the `getentropy' function. */
-#define HAVE_GETENTROPY 1
+//#define HAVE_GETENTROPY 0
 
 /* Define this if you have any gethostbyname_r() */
 #define HAVE_GETHOSTBYNAME_R 1
